@@ -45,3 +45,11 @@ cs 면접 준비를 위한 레포지토리 입니다.
 - 정규화란?
 - DFS와 BFS의 차이
 - RDBMS와 NoSQL의 차이
+
+#### 6주차
+
+- StringBuilder와 StringBuffer의 차이는?
+- 오버로딩과 오버라이딩
+- JVM이란?
+- 스프링과 스프링 부트의 차이
+- IOCP
