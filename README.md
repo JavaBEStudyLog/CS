@@ -63,8 +63,17 @@ cs 면접 준비를 위한 레포지토리 입니다.
 - 옵티마이저(Optimizer)란
 
 #### 8주차
+
 - Amazon S3와 EC2의 차이점
--  JPA와 ORM의 개념
--  Ioc 컨테이너의 역할
--  인스턴스화란?
--  Autowiring 과정
+- JPA와 ORM의 개념
+- Ioc 컨테이너의 역할
+- 인스턴스화란?
+- Autowiring 과정
+
+#### 9주차
+
+- DAO와 DTO의 차이
+- TDD란
+- 애자일 방법론이란
+- Maven과 Gradle의 차이
+- Mock이란
